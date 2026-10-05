@@ -1,1 +1,0 @@
-"""Research metadata collection modules."""

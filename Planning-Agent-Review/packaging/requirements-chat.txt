@@ -1,6 +1,0 @@
-llama-index-core>=0.14,<0.15
-llama-index-llms-ollama>=0.10,<0.11
-streamlit>=1.50,<2
-PySide6==6.9.2
-wrapt>=1.17.3,<2
-zstandard>=0.25,<0.26
