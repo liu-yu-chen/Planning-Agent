@@ -1,0 +1,17 @@
+{
+  "backend": "local",
+  "database": "data/rag.sqlite",
+  "service_url": "",
+  "service_token_env": "SERVICE_TOKEN",
+  "ollama_url": "http://127.0.0.1:11434",
+  "model": "MODEL_NAME",
+  "output_root": "reviews",
+  "live_enabled": false,
+  "live_from_year": "REPLACE_WITH_START_YEAR",
+  "minimum_citations": "REPLACE_WITH_THRESHOLD",
+  "openalex_key_env": "OPENALEX_API_KEY",
+  "top_k": 4,
+  "candidate_k": 40,
+  "context_tokens": 8192,
+  "request_timeout_seconds": 300
+}

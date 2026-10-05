@@ -1,0 +1,8 @@
+# Dedicated GPU environment; choose compatible CUDA/PyTorch builds for the host.
+torch
+transformers
+peft
+trl
+accelerate
+bitsandbytes
+safetensors
